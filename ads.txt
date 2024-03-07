@@ -1,0 +1,4 @@
+OWNERDOMAIN=jamiedruce.io
+contentignite.com, 234524079, DIRECT
+google.com, pub-3761824150816651, RESELLER, f08c47fec0942fa0
+google.com, pub-4396642442527865, RESELLER, f08c47fec0942fa0
